@@ -1,0 +1,8 @@
+name: TentCore
+version: 1.0
+description: The Core plugin for tentoria.
+author: Tentoria(CloudGamer360)
+load: POSTWORLD
+main: net.tentoria.server.Main
+loadbefore: [PassPlugin]
+depend: [PassPlugin]
